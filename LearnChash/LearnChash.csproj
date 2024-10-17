@@ -7,8 +7,4 @@
 	  <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Augnet_c7\" />
-  </ItemGroup>
-
 </Project>
