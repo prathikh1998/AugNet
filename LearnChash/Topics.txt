@@ -1,0 +1,15 @@
+Strings are immutable
+Append vs Concat
+Relation between string and array
+String Builder
+OOPS Concepts
+Const vs ReadOnly
+Convert.ToString() vs ToString()
+Jagged arrays
+Keywords
+String intern
+Formatting
+Constructors
+Indexers
+Inheritance + base
+Overriding + virtual
